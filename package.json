@@ -1,6 +1,6 @@
 {
   "name": "mock-detector",
-  "version": "0.0.1",
+  "version": "0.0.2-beta",
   "description": "function to detect isMock()/isFromMockProvider(). Returning boolean value.",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
